@@ -1,3 +1,52 @@
+Project Title
+
+Bookstore and Data Structures Implementation in Python
+
+Description
+
+This project is a Python-based bookstore system and expression calculator designed to demonstrate the implementation and application of fundamental data structures and algorithms.
+
+The project focuses on building data structures from scratch and applying them to real-world functionality such as managing a bookstore and evaluating mathematical expressions.
+
+Features
+Bookstore system with book loading, searching, sorting, and cart management
+Expression calculator supporting arithmetic operations and variables
+Modular and object-oriented project design
+Data Structures Implemented
+
+All data structures are implemented without using built-in Python equivalents:
+
+Stack (array-based and linked list)
+Queue (array-based and linked list)
+Deque
+List (array list and doubly linked list)
+Hash table (chained hashing)
+Binary search tree
+Red-black tree
+Binary heap
+Graph (adjacency list and adjacency matrix)
+Algorithms
+Sorting algorithms implemented from scratch
+Expression parsing using stacks
+Tree and graph-based data organization
+Project Structure
+main.py: Entry point of the application
+BookStore.py: Bookstore functionality
+Calculator.py: Expression evaluation
+Book.py: Book data model
+algorithms.py: Sorting implementations
+Additional modules for data structures
+How to Run
+
+Run the following command in the terminal:
+
+python3 main.py
+
+Learning Outcomes
+Understanding of core data structures and their implementations
+Application of algorithms in practical systems
+Experience with object-oriented programming in Python
+Ability to design and organize a modular software project
 Installation
 
 Install Python 3.8 or higher and numpy. A highly recommended IDE is PyCharm 
